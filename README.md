@@ -1,11 +1,11 @@
 <h2 align="center">
-  Hi 👋, I'm zihaozhang
+  Hi, I'm zihaozhang
 </h2>
 
 
-<h5 align="center" class='item'>
-  🎒 I’m currently learning Computer Science
+<h4 align="center" class='item'>
+    I’m currently learning Computer Science
 </div>
-<h5 align="center">
-   🌱 I’m enthusiastic about front-end development
+<h4 align="center">
+    I’m enthusiastic about front-end development
 </div>
